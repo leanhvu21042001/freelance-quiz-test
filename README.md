@@ -12,4 +12,4 @@
 ## Chạy dự án
 - Clone source code vào folder C:\xampp\htdocs
 - Mở xampp chạy apache và mysql sau đó import database theo thứ tự `freelance-quiz-test/database/init_database.sql`, tiếp theo là `freelance-quiz-test/database/setup_data.sql`
-- Truy cập web [VÀO ĐÂY](http://localhost/freelance-quiz-test/?controller=user&action=login)
+- Truy cập web [VÀO ĐÂY](http://localhost:81/freelance-quiz-test/?controller=user&action=login)

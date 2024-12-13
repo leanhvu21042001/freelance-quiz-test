@@ -4,7 +4,7 @@ class Database
     const USERNAME = 'root';
     const PASSWORD = '';
 
-    const DB_HOST = 'localhost';
+    const DB_HOST = 'localhost:81';
     const DB_NAME = 'quiz_system';
     const DB_PORT = '3306';
     const DB_CHARSET = 'utf8';

@@ -1,6 +1,6 @@
 <?php
 session_start();
-define('HOST_URL', 'http://localhost/freelance-quiz-test');
+define('HOST_URL', 'http://localhost:81/freelance-quiz-test');
 ?>
 <!doctype html>
 <html lang="en">
